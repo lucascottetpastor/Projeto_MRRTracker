@@ -5,7 +5,7 @@ Projeto de analise de dados com Python, usando bibliotecas Streamlit, Pandas e P
 
 1 - Clonar repositório
 ```
-git clone https://github.com/lucascottet/web_dados.git
+git clone https://github.com/xhiowzin/web_dados
 ```
 2 - Entrar na pasta do arquivo
 ```
