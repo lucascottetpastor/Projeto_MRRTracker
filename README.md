@@ -1,21 +1,49 @@
-Projeto de analise de dados com Python, usando bibliotecas Streamlit, Pandas e Plotly.
+# MRR Tracker
 
-## Para a execução do programa:
- Faça a instalação do Python (https://www.python.org) e siga os seguintes passos no CMD:
+Este projeto é um aplicativo que permite o upload de um arquivo Excel contendo dados de assinaturas e gera visualizações interativas de indicadores financeiros, como MRR (Monthly Recurring Revenue), Churn Rate e Receita Total por Ano. Ele utiliza a biblioteca `Streamlit` para fornecer uma interface gráfica intuitiva.
+
+
+## 🔨 Dependências
+
+O código utiliza a seguinte biblioteca:
+
+`Streamlit:` Para criar a interface web interativa.
+
+`Pandas:` Para manipulação e tratamento de dados.
+
+`Plotly:` Para visualização de dados dinâmica.
+
+`OpenPyXL:` Para leitura de arquivos Excel.
+
+
+## ✔️ Tecnologia utilizada
+
+`Python`: Linguagem de programação utilizada para desenvolver a lógica.
+
+## 🛠️ Abrir e rodar o projeto
+
+Baixar e instalar a versão mais recente do Python em: [download](https://www.python.org/downloads/).
+
+Necessário fazer a instalação de todas as dependências.
+
+Para executar o projeto, você deve:
 
 1 - Clonar repositório
 ```
-git clone https://github.com/lucascottetpastor/web_dados
+git clone https://github.com/lucascottetpastor/Projeto_MRRTracker
 ```
 2 - Entrar na pasta do arquivo
 ```
-cd web_dados
+cd Projeto_MRRTracker
 ```
-3 - Instalar requerimento
+
+3 - Instalar as dependências
 ```
-python -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
-4 - Executar programa
+
+4 - Instalar as dependências
 ```
-streamlit run app.py
+streamlit run MRRTracker.py
 ```
+
