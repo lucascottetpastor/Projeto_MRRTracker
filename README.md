@@ -47,3 +47,10 @@ pip install -r requirements.txt
 streamlit run MRRTracker.py
 ```
 
+## 📷 Exemplo:
+
+![Exemplo de uso](./Exemplo_de_uso.png)
+
+![Exemplo de uso](./Exemplo_de_uso2.png)
+
+<sub>*Dados fictícios criados por IA* </sub>
